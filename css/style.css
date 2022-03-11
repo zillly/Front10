@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+* {box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+
+}
+
+main { display: flex;
+justify-content: center;
+margin-top: 200px;
+gap: 30px;
+}
+
+
+.Anti_Titulo { background-color: #1CD1B0;
+    padding: 10px;
+    font-family: 'Roboto';
+}
+.Titulo {background-color: #00669F;
+    padding: 30px;
+    line-height: 47px;}
+
+
+.Divmain1 {background-color: #F3F3F3;
+    width: 400px;
+    height: 650px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+    
+
+}
+
+.Divmain2 { background-color: #F3F3F3;
+    width: 400px;
+    height: 650px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+
+}
+
+.divgotham {margin-bottom: auto;
+    
+
+
+    }
+
+.imggotham {width: 400px;
+    border-radius: 16px 16px 0px 0px;
+
+
+
+}
+
+.divtext1 {text-align: center;
+    font-family: 'Roboto';
+    margin: 60px;
+
+    
+
+}
+
+.h2divtext1 {margin: 20px;
+}
+
+.divbatman {position: absolute;
+    width: 410px;
+height: 157px;
+left: 675px;
+top: 540px;
+
+
+}
+
+.imgbatman { width: 130px;
+    border-radius: 50%;
+
+
+}
+
+
+
+
+
+.footer { background-color: #00669F;
+    margin-top: 200px;
+    padding: 20px;
+    color: white;
+    
+
+
+
+
+}
+
+    
+.Divmain1 a {text-align: center;
+    background-color: #00669F;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 160px;
+
+
+
+}
+
+
+
+.divflor {margin-bottom: auto;
+
+
+
+}
+
+.imgflor {width: 400px;
+    border-radius: 16px 16px 0px 0px;
+    height: 270px;
+
+
+}
+
+.divaleq {margin-left: 120px;
+    position: absolute;
+    width: 410px;
+height: 157px;
+left: 970px;
+top: 540px;
+
+}
+
+.imgaleq2 {width: 130px;
+    border-radius: 50%;
+}
+
+.div2text {text-align: center;
+    margin: 60px;
+
+
+}
+.h2text2 {margin: 20px;
+
+}
+
+.Divmain2 a {text-align: center;
+    background-color: #00669F;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 160px;
+    margin-top: 19px;
+
+
+}
+
+
+
